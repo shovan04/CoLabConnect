@@ -1,1 +1,8 @@
 env/
+
+RealTimeColab/__pycache__/*
+__init__.py
+
+db.sqlite3
+
+test.env
